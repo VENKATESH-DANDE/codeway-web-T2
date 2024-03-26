@@ -1,1 +1,1 @@
-# codeway-web-T2
+# codeway-web-T2-calculator
